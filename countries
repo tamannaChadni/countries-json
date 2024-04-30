@@ -1,0 +1,33 @@
+ [
+    {
+      "name": "South Africa",
+      "image": "https://i.ibb.co/WD8QmHF/img1.jpg",
+      "description": "South Africa is known for its diverse landscapes, wildlife, and vibrant culture. From the stunning beaches of Cape Town to the expansive savannas of Kruger National Park, it offers a wealth of experiences for travelers."
+    },
+    {
+      "name": "Tanzania",
+      "image": "https://i.ibb.co/nm2ZHGb/img2.jpg",
+      "description": "Tanzania is home to the majestic Mount Kilimanjaro, the iconic Serengeti National Park, and the breathtaking island of Zanzibar. It's a paradise for safari enthusiasts and beach lovers alike."
+    },
+    {
+      "name": "Kenya",
+      "image": "https://i.ibb.co/vx29vDX/img3.jpg",
+      "description": "Kenya is synonymous with thrilling safari adventures, where you can witness the Big Five in their natural habitat. Its diverse landscapes also include stunning beaches, lush forests, and the Great Rift Valley."
+    },
+    {
+      "name": "Morocco",
+      "image": "https://i.ibb.co/wRsb7sr/img4.jpg",
+      "description": "Morocco is a blend of vibrant colors, exotic aromas, and rich history. From the bustling souks of Marrakech to the ancient streets of Fez, it offers an enchanting journey through time."
+    },
+    {
+      "name": "Egypt",
+      "image": "https://i.ibb.co/KGCPd9f/img5.jpg",
+      "description": "Egypt is home to iconic landmarks such as the Pyramids of Giza, the Sphinx, and the Nile River. With its millennia-old history and mesmerizing culture, it's a destination that never fails to captivate."
+    },
+    {
+      "name": "Namibia",
+      "image": "https://i.ibb.co/PDFMtBf/img6.jpg",
+      "description": "Namibia boasts some of Africa's most spectacular landscapes, including the otherworldly Namib Desert, the vast Etosha National Park, and the dramatic Skeleton Coast. It's a paradise for adventure seekers and nature lovers."
+    }
+  ]
+
